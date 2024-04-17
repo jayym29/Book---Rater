@@ -1,0 +1,53 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "",
+        "author": "",
+        "image": "",
+        "pages": 0,
+        "plot": ""
+      },
+      {
+        "id": 2,
+        "title": "",
+        "author": "",
+        "image": "",
+        "pages": 0,
+        "plot": ""
+      },
+      {
+        "id": 3,
+        "title": "",
+        "author": "",
+        "image": "",
+        "pages": 0,
+        "plot": ""
+      },
+      {
+        "id": 4,
+        "title": "",
+        "author": "",
+        "image": "",
+        "pages": 0,
+        "plot": ""
+      },
+      {
+        "id": 5,
+        "title": "",
+        "author": "",
+        "image": "",
+        "pages": 0,
+        "plot": ""
+      },
+      {
+        "id": 6,
+        "title": "",
+        "author": "",
+        "image": "",
+        "pages": 0,
+        "plot": ""
+      }
+    ]
+  }
+  
